@@ -13,4 +13,6 @@ Web Pack get started https://webpack.js.org/guides/getting-started/
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+```
+Install Node and npm more than 8
+```
